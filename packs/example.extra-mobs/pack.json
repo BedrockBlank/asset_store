@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "type": "presets",
   "author": "example",
+  "icon": "icon.png",
   "description": "A sample preset pack: adds a slime-like bouncer entity preset and a lantern block preset.",
   "contributes": {
     "entityPresets": [
