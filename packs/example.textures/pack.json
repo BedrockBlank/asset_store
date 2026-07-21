@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "id": "example.textures",
+  "name": "Starter Textures",
+  "version": "1.0.0",
+  "type": "texture",
+  "author": "example",
+  "icon": "icon.png",
+  "description": "A sample texture pack: two 16x16 block textures (brick and planks) you can add to your project.",
+  "contributes": {
+    "assets": [
+      { "id": "brick", "name": "Red Brick", "kind": "texture", "file": "textures/brick.png" },
+      { "id": "planks", "name": "Wood Planks", "kind": "texture", "file": "textures/planks.png" }
+    ]
+  }
+}

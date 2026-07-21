@@ -8,5 +8,15 @@
     "icon": "icon.png",
     "description": "A sample preset pack: adds a bouncing slime entity preset and a lantern block preset.",
     "path": "packs/example.extra-mobs"
+  },
+  {
+    "id": "example.textures",
+    "name": "Starter Textures",
+    "author": "example",
+    "type": "texture",
+    "version": "1.0.0",
+    "icon": "icon.png",
+    "description": "A sample texture pack: two 16x16 block textures (brick and planks) you can add to your project.",
+    "path": "packs/example.textures"
   }
 ]
