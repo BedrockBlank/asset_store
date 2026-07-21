@@ -1,0 +1,11 @@
+[
+  {
+    "id": "example.extra-mobs",
+    "name": "Extra Mob Presets",
+    "author": "example",
+    "type": "presets",
+    "version": "1.0.0",
+    "description": "A sample preset pack: adds a bouncing slime entity preset and a lantern block preset.",
+    "path": "packs/example.extra-mobs"
+  }
+]
